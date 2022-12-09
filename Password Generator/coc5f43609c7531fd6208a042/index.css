@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    justify-content: flex;
+    display: flex;
+    
+    background-color: #0c1224;
+}
+
+.container {
+    padding: 30px;
+}
+
+.passwords {
+    margin: 0;
+    justify-content: space-around;
+    display: inline;
+}
+
+h1 {
+    font-family: system-ui;
+    color: white;
+}
+
+h2 {
+    margin-top: -29px;
+    
+    font-size: 33px;
+    font-family: system-ui;
+    color: #38a87b;
+}
+
+h3 {
+    margin-top: -20px;
+    
+    color: white;
+    font-size: 20px;
+    font-weight: 100;
+    font-style: italic;
+    font-family: system-ui;
+}
+
+h4 {
+    color: #8b8d94;
+}
+
+p {
+    color: white;
+    background-color: #2b3a66;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 8px 20px;
+    text-align: center;  
+}
+
+button {
+    margin-top: 10px;
+    
+    background-color: #38a87b;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 8px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: system-ui;
+}
+
+.copyClick {
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    color: black;
+    padding: 8px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: system-ui;
+}
+
