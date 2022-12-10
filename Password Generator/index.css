@@ -1,6 +1,5 @@
 body {
     margin: 0;
-    justify-content: flex;
     display: flex;
     background-color: #0c1224;
 }
@@ -17,7 +16,7 @@ body {
 
 .controlButtons {
     padding-bottom: 12px;
-    border-bottom: solid;
+    border-bottom: 1px solid;
     border-color: #96999e;
 }
 
@@ -58,6 +57,7 @@ p {
 
 button {
     margin-top: 10px;
+
     background-color: #38a87b;
     border-radius: 5px;
     color: white;
